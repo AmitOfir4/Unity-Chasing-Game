@@ -18,6 +18,7 @@ public class Player : MonoBehaviour
     private bool isGrounded = true;
     private string GROUND_TAG = "Ground";
     private string ENEMY_TAG = "Enemy";
+    
 
     private void Awake()
     {
@@ -41,9 +42,7 @@ public class Player : MonoBehaviour
         PlayerJump();
     }
 
-    // private void FixedUpdate(){
-    //     PlayerJump();
-    // }
+
 
     void PlayerMoveKeyboard()
     {

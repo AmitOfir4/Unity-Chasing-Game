@@ -70,6 +70,7 @@
     <Compile Include="Assets/Scripts/GameManager.cs" />
     <Compile Include="Assets/Scripts/CameraFollow.cs" />
     <Compile Include="Assets/Scripts/MonsterSpawner.cs" />
+    <Compile Include="Assets/Scripts/Timer.cs" />
     <Compile Include="Assets/walk.cs" />
     <Compile Include="Assets/Scripts/Monster.cs" />
     <Compile Include="Assets/Scripts/Collector.cs" />
